@@ -11,7 +11,8 @@ html {
 }
 
 body {
-font-size: 16px; /* irem = 10px  utilizar en todos los proyectos*/
+    font-size: 16px; /* irem = 10px  utilizar en todos los proyectos*/
+    font-family: 'Krub', sans-serif;
 }
 
 .titulo {
@@ -21,4 +22,12 @@ font-size: 16px; /* irem = 10px  utilizar en todos los proyectos*/
 
 .titulo span{
     font-size: 2rem;
+}
+
+.contenedor {
+    width: 120rem;
+}
+
+.navegacion-principal {
+    background-color: var(--secundario);
 }
