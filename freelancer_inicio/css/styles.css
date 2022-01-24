@@ -1,0 +1,24 @@
+:root {
+    --blanco: #ffffff;
+    --negro: #212121;
+    --primario: #ffc107;
+    --secundario: #0097a7;
+    --gris: #757575;
+}
+
+html {
+    font-size: 62.5%; /* irem = 10px  utilizar en todos los proyectos*/
+}
+
+body {
+font-size: 16px; /* irem = 10px  utilizar en todos los proyectos*/
+}
+
+.titulo {
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+.titulo span{
+    font-size: 2rem;
+}
