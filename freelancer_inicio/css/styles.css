@@ -26,8 +26,19 @@ body {
 
 .contenedor {
     width: 120rem;
+    margin: 0 auto;
+}
+
+.nav-bg {
+    background-color: var(--secundario);
 }
 
 .navegacion-principal {
-    background-color: var(--secundario);
+    
 }
+
+.navegacion-principal a{
+    color: var(--blanco);
+    text-decoration: none;
+}
+
