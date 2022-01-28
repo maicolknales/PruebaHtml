@@ -2,3 +2,5 @@ https://www.cssmatic.com/box-shadow
 https://caniuse.com/
 http://necolas.github.io/normalize.css/
 https://fonts.google.com/
+https://responsively.app/
+https://www.netlify.com/
